@@ -1,2 +1,2 @@
 # monty
-building a Monty interpreter
+building a Monty interpreter using Stacks, Queues - LIFO, FIFO.
