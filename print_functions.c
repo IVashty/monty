@@ -1,20 +1,16 @@
 #include "monty.h"
 
-/* these functions are used to print all or an element of the linked list.
- * they correspond to the opcode in the description
- */
-
 /**
  * pall - print all the elements in a dll as numbers
  * @head: pointer to dll
 `* @l: line number
  * opcode: pall
  */
+
 void pall(stack_t **head, unsigned int l)
 {
 	stack_t *h;
 	(void) l;
-
 	if (!head)
 		return;
 	h = *head;
