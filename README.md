@@ -572,4 +572,4 @@ These are valid operation codes:
 
 
 ## Team
-Vashty Kuria [Github](https://github.com/IVashty) || [LinkedIn](https://linkedin.com/i-vashty-k)
+Vashty Kuria [Github](https://github.com/IVashty) || [LinkedIn](https://www.linkedin.com/in/i-vashty-k-726885b9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6nyfDH8OT5%2BxLXZLjjb5xQ%3D%3D)
